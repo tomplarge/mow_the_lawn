@@ -1,2 +1,2 @@
 # mow_the_lawn
-``bash> python lawnmower.py ``
+``> python lawnmower.py ``
