@@ -1,2 +1,2 @@
 # mow_the_lawn
-` python lawnmower.py `
+`$ python lawnmower.py `
